@@ -1,6 +1,8 @@
 # recap-photo-processing
 photo processing for the bereal recap video
 
+-Request Data from Bereal
+
 -Download Python
 
 -Run:
